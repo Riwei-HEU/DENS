@@ -1,2 +1,2 @@
 # DENS
-Disentangled Negative Sampling for Collaborative Filtering
+PyTorch Implementation for Disentangled Negative Sampling for Collaborative Filtering, WSDM 2023
